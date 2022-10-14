@@ -14,8 +14,9 @@ Use for loop to append the values into the list created.
 Print the product of two arrays.
 
 ## PROGRAM: 
-## Developed by: s.vinod kumar
-## Register no: 22004903
+ Developed by: s.vinod kumar
+ 
+ Register no: 22004903
 
 ```python
 import numpy as np
